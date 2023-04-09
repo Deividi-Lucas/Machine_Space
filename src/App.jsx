@@ -1,4 +1,4 @@
-import './App.css'
+import './global/style.scss'
 import Home from './pages/home'
 import { Button } from './pages/home/style'
 
